@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\bin\Debug\net6.0-windows\Esercizio1.exe
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\bin\Debug\net6.0-windows\Esercizio1.deps.json
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\bin\Debug\net6.0-windows\Esercizio1.runtimeconfig.json
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\bin\Debug\net6.0-windows\Esercizio1.dll
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\bin\Debug\net6.0-windows\Esercizio1.pdb
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.Form1.resources
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.sourcelink.json
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.dll
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\refint\Esercizio1.dll
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.pdb
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\Esercizio1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Esercitazione-con-i-Thread-Colombo\Esercizio1\Esercizio1\obj\Debug\net6.0-windows\ref\Esercizio1.dll

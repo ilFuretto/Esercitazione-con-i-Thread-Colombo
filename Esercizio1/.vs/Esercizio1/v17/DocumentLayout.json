@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Esercitazione-con-i-Thread-Colombo\\Esercizio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF29AE4A-78BE-45FD-865B-0019F46E42DA}|Esercizio1\\Esercizio1.csproj|c:\\users\\admin\\desktop\\esercitazione-con-i-thread-colombo\\esercizio1\\esercizio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF29AE4A-78BE-45FD-865B-0019F46E42DA}|Esercizio1\\Esercizio1.csproj|solutionrelative:esercizio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF29AE4A-78BE-45FD-865B-0019F46E42DA}|Esercizio1\\Esercizio1.csproj|c:\\users\\admin\\desktop\\esercitazione-con-i-thread-colombo\\esercizio1\\esercizio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF29AE4A-78BE-45FD-865B-0019F46E42DA}|Esercizio1\\Esercizio1.csproj|solutionrelative:esercizio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Esercitazione-con-i-Thread-Colombo\\Esercizio1\\Esercizio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Esercizio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Esercitazione-con-i-Thread-Colombo\\Esercizio1\\Esercizio1\\Form1.cs",
+              "RelativeToolTip": "Esercizio1\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Esercitazione-con-i-Thread-Colombo\\Esercizio1\\Esercizio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Esercizio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Esercitazione-con-i-Thread-Colombo\\Esercizio1\\Esercizio1\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Esercizio1\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:26:13.367Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
